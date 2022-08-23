@@ -9,12 +9,11 @@ myddd是基于整洁架构与领域驱动思想而构建的类库，致力于实
 
 myddd当前主要涵盖到以下技术方向
 
-1. 后端 (Kotlin + Vert.x)
-2. 后端 (Java + Spring Boot)
+1. 后端 (Java + Spring Boot)
+2. 后端 (Kotlin + Vert.x)
 3. 基于Electron桌面端（Electron + TS + React)
 4. 前端 （TS + REACT)
-5. Android (Kotlin) ***计划中，未开始***
-6. iOS （Swift) ***计划中，未开始***
+5. 移动端 （KMM + Kotlin/Swift)
 
 ### 理念
 
@@ -34,13 +33,10 @@ myddd由我个人使用自己业余时间维护。
 
 myddd在后端，前端及基于Electron的桌面开发已具备雏形，其在移动端的相关实践与规范仍在研究与完善中。
 
-
 myddd的官方开源地址是: https://github.com/mydddorg
 
 
 ## 微言码道
-
-[微言码道](https://taoofcoding.tech)也是由我维护的,官方网站是:https://taoofcoding.tech
 
 微言码道主要是文章，视频及音频三种形式，致力于实践与传播优雅的编码之道。
 
