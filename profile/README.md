@@ -40,4 +40,4 @@ myddd的官方开源地址是: https://github.com/mydddorg
 
 微言码道主要是文章，视频及音频三种形式，致力于实践与传播优雅的编码之道。
 
-![微言码道](https://images.taoofcoding.tech/my_qrcode.png)
+> [微言码道](https://taoofcoding.tech) -- 编辑即思考
