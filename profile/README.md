@@ -29,11 +29,9 @@ myddd由我个人使用自己业余时间维护。
 
 ## myddd总体规划
 
-![myddd 2022](https://images.taoofcoding.tech/myddd/myddd-2022.png)
-
 myddd在后端，前端及基于Electron的桌面开发已具备雏形，其在移动端的相关实践与规范仍在研究与完善中。
 
-myddd的官方开源地址是: https://github.com/mydddorg
+myddd的官网: https://myddd.org
 
 
 ## 微言码道
