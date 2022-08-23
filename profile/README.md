@@ -14,8 +14,8 @@ myddd的官网: https://myddd.org
 
 myddd当前主要涵盖到以下技术方向
 
-1. 后端 (Java + Spring Boot)
-2. 后端 (Kotlin + Vert.x)
+1. 后端 (Java + Spring Boot)。-- 传统Java
+2. 后端 (Kotlin + Vert.x) -- 响应式Java
 3. 基于Electron桌面端（Electron + TS + React)
 4. 前端 （TS + REACT)
 5. 移动端 （KMM + Kotlin/Swift)
