@@ -1,4 +1,4 @@
-Myddd is a toolkit focused on Clean Code and DDD (Domain Driver Design), it's an absolute open source project.
+Myddd is a toolkit focused on `Clean Architecture` and `DDD` (Domain Driver Design), it's an absolute open source project.
 
 ## About Myddd
 
@@ -12,6 +12,6 @@ Myddd has some sub-projects focused on different development directions
 
 ## Principle of myddd
 
-Myddd focused on DDD (Domain Driver Design) and Clean Code. And don't create any wheels which already exist. 
+Myddd focused on DDD (Domain Driver Design) and Clean Architecture. And don't create any wheels which already exist. 
 
 It's maintained by me in my free time.
