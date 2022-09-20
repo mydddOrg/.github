@@ -11,5 +11,7 @@ Myddd has some sub-projects focused on different development directions
  * myddd-electron: Use this project if you want to develop cross-platform apps. It uses Electron and React and also has a DDD style code.
 
 ## Principle of myddd
+
 Myddd focused on DDD (Domain Driver Design) and Clean Code. And don't create any wheels which already exist. 
+
 It's maintained by me in my free time.
