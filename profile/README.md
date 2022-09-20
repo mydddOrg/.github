@@ -1,6 +1,6 @@
 Myddd is a toolkit focused on Clean Code and DDD (Domain Driver Design), it's an absolute open source project.
 
-## HomePage
+## About Myddd
 
 You can access everything about myddd on it's website, the website is https://myddd.org
 
